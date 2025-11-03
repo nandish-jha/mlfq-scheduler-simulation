@@ -1,0 +1,372 @@
+Nandish Jha NAJ474 11282001
+
+
+
+      Reached function: ListCreate - Creating new empty list
+      ListCreate: List created successfully
+      Reached function: ListCreate - Creating new empty list
+      ListCreate: List created successfully
+      Reached function: ListCreate - Creating new empty list
+      ListCreate: List created successfully
+      Reached function: ListCreate - Creating new empty list
+      ListCreate: List created successfully
+      Reached function: ListCreate - Creating new empty list
+      ListCreate: List created successfully
+Created process_0 with priority 0
+Created process_1 with priority 1
+Created process_2 with priority 2
+Created process_3 with priority 3
+Created process_4 with priority 4
+   Reached function: ListFirst - Moving to first item
+   Reached function: ListFirst - Moving to first item
+   Reached function: ListFirst - Moving to first item
+   Reached function: ListFirst - Moving to first item
+   Reached function: ListFirst - Moving to first item
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 2
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 3
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 4
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 5
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is start block.
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is done blocking.
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is start block.
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is done blocking.
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is start block.
+   Reached function: ListFirst - Moving to first item
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_1 is running. (priority 1)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 2
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is done blocking.
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is start block.
+   Reached function: ListFirst - Moving to first item
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_1 is running. (priority 1)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 2
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is done blocking.
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is start block.
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is done blocking.
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is start block.
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is done blocking.
+process_0 is start block.
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is done blocking.
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is start block.
+   Reached function: ListFirst - Moving to first item
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+process_1 is running. (priority 1)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 2
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is done blocking.
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is start block.
+   Reached function: ListFirst - Moving to first item
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_1 is start block.
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is done blocking.
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 2
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is start block.
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is done blocking.
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is start block.
+   Reached function: ListFirst - Moving to first item
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_1 is done blocking.
+process_1 is running. (priority 1)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 2
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is done blocking.
+process_0 is start block.
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is done blocking.
+process_0 is running. (priority 0)
+   Reached function: ListAppend - Adding item to end of list
+      ListAppend: Successfully appended item 1
+   Reached function: ListFirst - Moving to first item
+      ListFirst: At first item
+   Reached function: ListRemove - Removing current item
+      ListRemove: Item removed
+process_0 is st
