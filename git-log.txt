@@ -1,0 +1,34 @@
+Nandish Jha NAJ474 11282001
+
+
+
+commit e4ea8f3115a54289c4c6a55772be356c0e57ec13
+Author: naj474 <naj474@usask.ca>
+Date:   Mon Oct 20 23:02:18 2025 -0600
+
+    Removed excess files.
+
+commit 2d980e3e78d778166970de7ed859bdd00be6a61a
+Author: naj474 <naj474@usask.ca>
+Date:   Mon Oct 20 22:58:55 2025 -0600
+
+    Working code with the output file.
+
+commit 26fa50bbb44291a7901dd661b7c7257193e0c6b0
+Merge: ef4880a f3cf40f
+Author: naj474 <naj474@usask.ca>
+Date:   Wed Oct 15 09:01:39 2025 -0600
+
+    Merge branch 'main' into local
+
+commit ef4880a49ea67404f150008990a8e55c796eca41
+Author: naj474 <naj474@usask.ca>
+Date:   Wed Oct 15 08:29:25 2025 -0600
+
+    Second commit with correct files setup
+
+commit f3cf40fa37fdac8cc15810c5f6032b7c6199c89a
+Author: Nandish Jha (naj474) <nandish.jha@usask.ca>
+Date:   Wed Oct 15 08:04:38 2025 -0600
+
+    Initial commit
